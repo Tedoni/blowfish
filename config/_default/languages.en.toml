@@ -13,11 +13,11 @@ title = "Tedoni"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-# [author]
-#   name = "Brandon Tedoni"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
+ [author]
+   name = "Brandon Tedoni"
+   image = "/img/test.jpg"
+   headline = "Testing this out"
+   bio = "This is a test"
 #   links = [
 #     { email = "btedoni@tuta.io" },
 #     { link = "https://link-to-some-website.com/" },
