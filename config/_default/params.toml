@@ -18,8 +18,8 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+# defaultBackgroundImage = "/img/books.jpg" # used as default for background images 
+# defaultFeaturedImage = "/img/books.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -37,7 +37,7 @@ disableTextInHeader = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "\img\books.jpg" # used in: hero, and card
+  homepageImage = "/img/books.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
