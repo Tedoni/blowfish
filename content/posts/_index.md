@@ -1,17 +1,17 @@
 ---
-title: "Test Posts"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+title: "Posts"
+date: 2022-06-13T20:55:37+01:00
+draft: false
 
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
----
-
-{{< lead >}}
-Simple, yet powerful. Learn how to use Blowfish and its features.
-{{< /lead >}}
-
-Aliquam scelerisque orci id ante tincidunt, et efficitur sem gravida. Vivamus eu risus id libero tempor aliquet. In quis mattis justo, in aliquam metus. Maecenas vel justo vel sem venenatis maximus id quis leo. Suspendisse ac odio quis quam accumsan tincidunt nec a eros. Nulla condimentum dapibus luctus. Nunc tincidunt gravida massa, sit amet egestas tellus ullamcorper ut. 
+showDate : false
+showDateUpdated : false
+showHeadingAnchors : false
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : false 
+showWordCount : false
+showSummary : false
+sharingLinks : false
 
 ---
