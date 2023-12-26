@@ -32,4 +32,6 @@ Suspendisse in porttitor purus. In lacinia mollis metus, et bibendum libero susc
 
 Nulla tristique pellentesque justo. Donec at neque aliquet, ullamcorper sapien sit amet, aliquam dui. Sed condimentum condimentum purus id rutrum. Phasellus iaculis ac mauris ornare ultrices. Etiam volutpat sagittis odio. Aenean consequat mollis elementum. Praesent non dictum urna. Cras efficitur nibh vitae dignissim dictum. Pellentesque convallis est leo, non convallis libero consequat sed. Etiam maximus, sem ac tincidunt condimentum, nisl leo suscipit neque, at euismod enim odio sed nulla. Proin vehicula ex massa, sit amet venenatis magna varius sit amet. Pellentesque facilisis a nisi quis porta. Quisque laoreet justo eu enim aliquet vestibulum. Pellentesque eu nisi ac est interdum interdum in ut quam. Vivamus rutrum vitae sapien vel semper. 
 
-{{< alert >}}
+{{<alert>}}
+This is an alert
+{{</alert>}}
