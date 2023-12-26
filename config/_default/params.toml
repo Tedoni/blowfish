@@ -18,8 +18,8 @@ enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "/img/books.jpg" # used as default for background images 
-# defaultFeaturedImage = "/img/books.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "/img/books.jpg" # used as default for background images 
+defaultFeaturedImage = "/img/books.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
